@@ -1,0 +1,13 @@
+package org.ckm.dsspr1;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DssPr1Application {
+
+    public static void main(String[] args) {
+        SpringApplication.run(DssPr1Application.class, args);
+    }
+
+}
